@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.showcodeba.com/sitemap.xml
