@@ -101,4 +101,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/DXBAWANG/DXBAWANG.github.io.git
+  branch: gh-pages          # 固定写 gh-pages
